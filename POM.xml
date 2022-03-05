@@ -1,31 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@srinijavasam 
-codecov
-/
-example-java
-Public
-Code
-Pull requests
-4
-Actions
-Security
-Insights
-example-java/pom.xml
-@thomasrockhu
-thomasrockhu Merge pull request #36 from codecov/dependabot/maven/junit-junit-4.13.2
-…
-Latest commit b77ae8c on May 6, 2021
- History
- 7 contributors
-@dependabot-preview@thomasrockhu@stevepeak@me-heer@JacksonTian@jangalinski@konohiroaki
-70 lines (62 sloc)  1.95 KB
-   
+  
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!--
